@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\calculator1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape001.xml",
+        "source": "D:\\calculator1\\app\\src\\main\\res\\drawable-mdpi\\shape001.xml"
+    },
+    {
+        "merged": "D:\\calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape2.xml",
+        "source": "D:\\calculator1\\app\\src\\main\\res\\drawable-mdpi\\shape2.xml"
+    },
+    {
+        "merged": "D:\\calculator1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon110.jpg",
+        "source": "D:\\calculator1\\app\\src\\main\\res\\drawable-mdpi\\icon110.jpg"
+    }
+]
